@@ -7,5 +7,7 @@ Application of a CNN classifier to diferenciate dogs and cats. There is also a f
 # RESULTS
 The image of a cat in the garden and the result of the localization algorithm.
 
-![catimg](https://user-images.githubusercontent.com/37218817/46418100-6c429e00-c701-11e8-91c0-e4b92a3decf5.png)
+![catimg](https://user-images.githubusercontent.com/37218817/46418375-0a366880-c702-11e8-8a38-70f05810fca4.png)
 
+# REFERENCES
+*
